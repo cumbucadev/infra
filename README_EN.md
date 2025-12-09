@@ -12,9 +12,12 @@
   </picture>
 </div>
 
-# <nome-do-repositório>
+# Infra
 
 [Versão em Português](/README.md)
+
+This repository contains all of Cumbuca Dev's infrastructure as code.
+Here we centralize the modules, configurations, and automations necessary to provision, update, and maintain cloud resources, ensuring standardization, security, and reproducibility.
 
 ## 💬 New Features and Reporting Bugs
 
