@@ -47,11 +47,11 @@ Make sure to read these files carefully before contributing. If you have any dif
 
 ## ❤️ Contributors
 
-[![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=cumbucadev/infra)](https://github.com/cumbucadev/infra/graphs/contributors)
 
 _Made with [contrib.rocks](https://contrib.rocks)._
 
 [github-discussions-doc]: https://docs.github.com/discussions
-[github-discussions]: https://github.com/cumbucadev/<nome-do-repositório>/discussions
+[github-discussions]: https://github.com/cumbucadev/infra/discussions
 [github-issues-doc]: https://docs.github.com/issues/tracking-your-work-with-issues/creating-an-issue
-[github-issues]: https://github.com/cumbucadev/<nome-do-repositório>/issues
+[github-issues]: https://github.com/cumbucadev/infra/issues
